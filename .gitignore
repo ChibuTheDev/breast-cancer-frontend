@@ -1,0 +1,20 @@
+# Streamlit
+.streamlit/
+
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+*/venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# OS generated files #
+.DS_Store
+Thumbs.db
+
+# other files that should be ignored #
+*.log

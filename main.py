@@ -138,5 +138,6 @@ if st.button("Predict"):
 
     if prediction[0] == 1:
         st.error("High risk of malignancy! ⚠️")
+        
     else:
         st.success("Low risk of malignancy. ✅")
